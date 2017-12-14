@@ -1,0 +1,12 @@
+header {
+	text-align: center;
+	background-color: #2B3E51;
+	color:white;
+	margin: 10px;
+}
+
+.panel-title {
+	margin: 10px;
+	background-color: #92967b;
+	color: black;
+}
